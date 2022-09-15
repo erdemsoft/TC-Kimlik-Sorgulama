@@ -1,0 +1,19 @@
+/*@author ErDeM <admin@erdemsoft.com>*/
+
+.body { background: url(nvi.jpg) no-repeat center center fixed; 
+              background-size: cover;
+              text-align: -webkit-center;
+              backdrop-filter: contrast(0.5);
+              height: 700px;
+}
+
+.footer {     position: absolute;
+    left: 0;
+    bottom: 0;
+
+}
+.div {
+padding-top: 10%;
+
+}
+/*@author ErDeM <admin@erdemsoft.com>*/
